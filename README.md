@@ -1,6 +1,6 @@
 # STMP1-OLinuXino
 
-STMP1 (es-ti-em-pai) OLinuXino is based on STM32MP1XX Dual Core Cortex-A7 + Cortex-M4 microprocessors from ST Microelectronics. The Cortex-A7 can run Linux/Android OS while Cortex-M4 handle Real-Time events.
+STMP1 (es-ti-em-pai) OLinuXino (o-linux-ino) is based on STM32MP1XX Dual Core Cortex-A7 + Cortex-M4 microprocessors from ST Microelectronics. The Cortex-A7 can run Linux/Android OS while Cortex-M4 handle Real-Time events.
 
 Features are:
 
