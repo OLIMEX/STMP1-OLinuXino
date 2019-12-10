@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name STMP1-OLinuXino_Rev_A-rescue)(type Legacy)(uri ${KIPRJMOD}/STMP1-OLinuXino_Rev_A-rescue.lib)(options "")(descr ""))
+)
